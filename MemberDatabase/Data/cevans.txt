@@ -1,0 +1,1 @@
+﻿Chris,Evans,C#, My goal for CIS-SO is to help students create a portfolio for potential employers to view that will better prepare students for software development in the business environment.  Additionally I want to promote contribution to open source software.
